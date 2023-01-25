@@ -1,0 +1,24 @@
+{
+  "name": "image-resizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "App to resize images",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanreSam/Image-resizer.git"
+  },
+  "keywords": [
+    "Image",
+    "resizer"
+  ],
+  "author": "Lanre Ezeche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LanreSam/Image-resizer/issues"
+  },
+  "homepage": "https://github.com/LanreSam/Image-resizer#readme"
+}
