@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/LanreSam/Image-resizer/issues"
   },
-  "homepage": "https://github.com/LanreSam/Image-resizer#readme"
+  "homepage": "https://github.com/LanreSam/Image-resizer#readme",
+  "dependencies": {
+    "electron": "^22.0.3",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
 }
